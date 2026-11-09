@@ -1,0 +1,6 @@
+{
+  "name": "Aether Omega",
+  "description": "Planetary-Scale Hyper-Compute, Fusion & Quantum Grid Command Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
